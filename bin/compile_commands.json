@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/dave/Projects/imgui-sfml/bin",
+  "command": "/usr/bin/g++   -I/home/dave/Projects/imgui-sfml/include -I/home/dave/Projects/imgui-sfml/src/vendor   -std=c++11 -lGL -g   -o CMakeFiles/demo.dir/src/main.cpp.o -c /home/dave/Projects/imgui-sfml/src/main.cpp",
+  "file": "/home/dave/Projects/imgui-sfml/src/main.cpp"
+},
+{
+  "directory": "/home/dave/Projects/imgui-sfml/bin",
+  "command": "/usr/bin/g++   -I/home/dave/Projects/imgui-sfml/include -I/home/dave/Projects/imgui-sfml/src/vendor   -std=c++11 -lGL -g   -o CMakeFiles/demo.dir/src/vendor/imgui/imgui-SFML.cpp.o -c /home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui-SFML.cpp",
+  "file": "/home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui-SFML.cpp"
+},
+{
+  "directory": "/home/dave/Projects/imgui-sfml/bin",
+  "command": "/usr/bin/g++   -I/home/dave/Projects/imgui-sfml/include -I/home/dave/Projects/imgui-sfml/src/vendor   -std=c++11 -lGL -g   -o CMakeFiles/demo.dir/src/vendor/imgui/imgui.cpp.o -c /home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui.cpp",
+  "file": "/home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/dave/Projects/imgui-sfml/bin",
+  "command": "/usr/bin/g++   -I/home/dave/Projects/imgui-sfml/include -I/home/dave/Projects/imgui-sfml/src/vendor   -std=c++11 -lGL -g   -o CMakeFiles/demo.dir/src/vendor/imgui/imgui_demo.cpp.o -c /home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui_demo.cpp",
+  "file": "/home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/dave/Projects/imgui-sfml/bin",
+  "command": "/usr/bin/g++   -I/home/dave/Projects/imgui-sfml/include -I/home/dave/Projects/imgui-sfml/src/vendor   -std=c++11 -lGL -g   -o CMakeFiles/demo.dir/src/vendor/imgui/imgui_draw.cpp.o -c /home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui_draw.cpp",
+  "file": "/home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/dave/Projects/imgui-sfml/bin",
+  "command": "/usr/bin/g++   -I/home/dave/Projects/imgui-sfml/include -I/home/dave/Projects/imgui-sfml/src/vendor   -std=c++11 -lGL -g   -o CMakeFiles/demo.dir/src/vendor/imgui/imgui_widgets.cpp.o -c /home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui_widgets.cpp",
+  "file": "/home/dave/Projects/imgui-sfml/src/vendor/imgui/imgui_widgets.cpp"
+}
+]
